@@ -1,0 +1,10 @@
+int x =1;
+int y= 2;
+if(x>y){
+if(x>3){
+	int y = x/2;
+	int x = x-1;
+}
+	x= x+y*2;
+	y= x*y-4;
+}
